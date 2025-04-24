@@ -8,3 +8,9 @@
 .listas{
     background-color: antiquewhite;
 }
+.tabla{
+    background-color: aqua;
+}
+tr td{
+    color: red;
+}
