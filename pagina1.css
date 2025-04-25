@@ -1,0 +1,19 @@
+
+.foto-mascotas{
+    display: grid;
+    gap: 20px;
+    justify-items: center;
+}
+.paco-foto{
+    height: 400px;
+}
+.pipo-foto{
+    height: 400px;
+}
+.bruno-foto{
+    height: 400px;
+}
+.lola-foto{
+    height: 400px;
+    width: 300px;
+}
